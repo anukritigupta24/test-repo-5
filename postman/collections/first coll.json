@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "544e3957-f7fd-4df2-9018-2abd78ea555b",
+		"_postman_id": "072f014e-7a00-40cf-a7e1-0b5993430e93",
 		"name": "first coll",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "1082773-544e3957-f7fd-4df2-9018-2abd78ea555b"
+		"_uid": "16513226-072f014e-7a00-40cf-a7e1-0b5993430e93"
 	},
 	"item": [
 		{
 			"name": "test",
-			"id": "21b9678e-e600-4f34-a27b-1762bc41f4ee",
+			"id": "3d7245fb-20c1-4222-8e5c-f8799c2388f1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
